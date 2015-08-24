@@ -32,5 +32,10 @@ module.exports = {
   },
   database: {
     name: 'coachie'
+  },
+  services: {
+    http: {
+      port: 9410
+    }
   }
 };
